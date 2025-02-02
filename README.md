@@ -1,12 +1,11 @@
-[![Bias's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaliq8145&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&theme=graywhite&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Bias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bias8145&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&theme=graywhite&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hello! 👋 I'm Bias Khaliq.
 
 - 🌱 Always learning, striving to grow, and building awesome stuff.
 - 💻 Passionate about open-source and custom ROM development.
-- 🎮 Gamer at heart, developer by passion.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaliq8145&layout=compact&exclude_repo=PrivateRepo&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bias8145&layout=compact&exclude_repo=PrivateRepo&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
