@@ -5,8 +5,6 @@
 - 🌱 Always learning, striving to grow, and building awesome stuff.
 - 💻 Passionate about open-source and custom ROM development.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bias8145&layout=compact&exclude_repo=PrivateRepo&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### 🛠 Environment
