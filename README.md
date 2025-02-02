@@ -20,8 +20,8 @@
 ### 📱 Devices
 
 #### Phones  
-[![Google Pixel 4a](https://img.shields.io/badge/Pixel%204a-4285F4?style=flat-square&logo=google&logoColor=FFFFFF)](https://store.google.com/us/product/pixel_4a)  
-[![Google Pixel 4](https://img.shields.io/badge/Pixel%204-4285F4?style=flat-square&logo=google&logoColor=FFFFFF)](https://store.google.com/us/product/pixel_4)  
+[![Google Pixel 4a](https://img.shields.io/badge/Pixel%204a-4285F4?style=flat-square&logo=google&logoColor=FFFFFF)](https://store.google.com/us/product/pixel_4a
+[![Google Pixel 4](https://img.shields.io/badge/Pixel%204-4285F4?style=flat-square&logo=google&logoColor=FFFFFF)](https://store.google.com/us/product/pixel_4) 
 [![Xperia 1](https://img.shields.io/badge/Xperia%201-000000?style=flat-square&logo=sony&logoColor=FFFFFF)](https://www.sony.com.hk/zh/electronics/smartphones/xperia-1)
 
 ---
