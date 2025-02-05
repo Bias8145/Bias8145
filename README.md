@@ -9,7 +9,7 @@
 
 ### 🛠 Environment
 
-[![Windows](https://img.shields.io/badge/Windows%2025-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows/) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)](https://www.kernel.org/) [![Android](https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/)
+[![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows/) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)](https://www.kernel.org/) [![Android](https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/)
 
 ---
 
