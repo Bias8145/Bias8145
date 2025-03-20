@@ -1,3 +1,4 @@
-[![Khaliq's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Bias8145&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&theme=catppuccin_latte&theme=graywhite&count_private=true&hide_border=true)](https://github.com/Bias8145/github-readme-stats)
+### Khaliq here 👋
+![ucoboy github stats](https://github-stats-alpha.vercel.app/api/?username=Bias8145&cc=FFFFFF&ic=DF7431&bc=FFFFFF&tc=000000)
   
 ---
